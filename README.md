@@ -82,3 +82,7 @@ Power BI connects to the same Excel file and displays:
 
 
 ![image alt](https://github.com/lokeshkumarjagadeesh/Project-management-tracker/blob/8f04d092c0a60bb6469eabb103d47d30ac5e98f7/sample%20output%20powerBI.png)
+
+
+
+![image alt](https://github.com/lokeshkumarjagadeesh/Project-management-tracker/blob/ae74b3b8d42f7028622626c279a376d291fc55cf/sample%20output%20powerBI%202.png)
